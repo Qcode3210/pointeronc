@@ -5,7 +5,7 @@
 #include <assert.h>
 #include <stdio.h>
 
-int findChar(char **strings, int value) {
+int findChar2(char **strings, int value) {
 	assert(strings != NULL);
 
 	while (*strings != NULL) {

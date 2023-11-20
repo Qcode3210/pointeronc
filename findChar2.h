@@ -1,3 +1,3 @@
 #pragma once
 
-int findChar(char** strings, int value);
+int findChar2(char** strings, int value);
